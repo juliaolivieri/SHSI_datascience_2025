@@ -74,5 +74,5 @@ Do the following with the survey data:
 1. Try creating a scatterplot based on two different variables.
 1. Try making different kinds of plots (changing colors, changing variables, etc)
 1. Which plot do you find most interesting?
-1. Submit your favorite plot on the msleep data here: https://forms.gle/Fh123ZHMEbQue5zq6  
+1. Submit your favorite plot on the msleep data here: https://forms.gle/Fh123ZHMEbQue5zq6  or email jolivieri@pacific.edu
 
